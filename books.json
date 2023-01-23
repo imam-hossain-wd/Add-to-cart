@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "name": "javascript",
+        "price": 450,
+        "image": "https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1534607557988-87MGQKXBH635YAWYG37X/javascriptbook.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Python",
+        "price": 500,
+        "image": "https://files.realpython.com/media/python-basics-3d-transparent-centered.1600697390a8.png"
+    },
+    {
+        "_id": 3,
+        "name": "C++",
+        "price": 350,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uIeZdTLrW_smhUHRMK74Uf8ycNFTqhizdg&usqp=CAU"
+    },
+    {
+        "_id": 4,
+        "name": "PHP",
+        "price": 450,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5QFjfWJ5EI6aX1AwComt17CbkIyHKGbETeBiC3bk-zI-qmiyPyKuk7GNlPx_dNxSmAc&usqp=CAU"
+    },
+    {
+        "_id": 5,
+        "name": "Java",
+        "price": 450,
+        "image": "https://cdn.codegym.cc/images/article/bbcda54e-3cd0-4dac-a77a-447484b8b487/512.jpeg"
+    }
+]
